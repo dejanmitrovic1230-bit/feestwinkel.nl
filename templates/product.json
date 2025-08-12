@@ -1,0 +1,662 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "2e8c7c14-a0ad-4930-a1d8-3def05310426": {
+          "type": "breadcrumb",
+          "settings": {
+            "breadcrumb_layout": "full",
+            "breadcrumb_alignment": "left",
+            "breadcrumb_bg": "rgba(0,0,0,0)",
+            "breadcrumb_gradient": "",
+            "breadcrumb_bg_mb": "#f6f6f6",
+            "breadcrumb_gradient_mb": "",
+            "breadcrumb_mg_top_desktop": 10,
+            "breadcrumb_mg_top_mobile": 0,
+            "breadcrumb_mg_bottom_desktop": 20,
+            "breadcrumb_mg_bottom_mobile": 10
+          }
+        },
+        "b0ea69b7-8a54-4a3c-9abd-0fcceeabaaa0": {
+          "type": "title",
+          "settings": {
+            "fontsize_text": 24,
+            "fontsize_text_mb": 20,
+            "color_title": "#d30b51",
+            "spacing_top": 0,
+            "spacing_bottom": 10
+          }
+        },
+        "custom_liquid_HM8Qfn": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n\n    <style>\n        /* Standaard stijlen voor desktop */\n        .custom-flex-container {\n            display: flex;\n            align-items: center;\n        }\n\n        .custom-flex-container .outstanding-text {\n            text-decoration: none;\n            color: #000; /* Tekst altijd zwart */\n            margin-right: 5px; /* Ruimte tussen tekst en eerste logo */\n            font-size: 16px;\n            font-weight: 500;\n        }\n\n        /* Standaard breedte voor desktop */\n        .logo-1 {\n            width: 110px; /* Eerste afbeelding breedte voor desktop */\n            height: auto; /* Behoud aspect ratio */\n        }\n\n        .logo-2 {\n            width: 90px; /* Tweede afbeelding breedte voor desktop */\n            height: auto; /* Behoud aspect ratio */\n        }\n\n        /* Specifieke styling voor mobiele apparaten */\n        @media (max-width: 768px) {\n            .custom-flex-container .outstanding-text {\n                font-size: 14px; /* Maakt de tekst kleiner op mobiel */\n            }\n\n            .logo-1 {\n                width: 100px; /* Verkleint de eerste afbeelding op mobiel */\n            }\n\n            .logo-2 {\n                width: 80px; /* Verkleint de tweede afbeelding op mobiel */\n            }\n        }\n\n        /* De CSS-regel voor rode bolletjes is niet langer nodig als er geen lijsten zijn.\n           Ik verwijder hem uit de style-tag om de code netjes te houden.\n        ul li::marker {\n            color: #d30b51;\n        } */\n    </style>\n</head>\n<body>\n\n<div class=\"custom-flex-container\">\n    <a href=\"https://nl.trustpilot.com/review/feestwinkel.nl\" target=\"_blank\" class=\"outstanding-text\">Uitstekend</a>\n    \n    <a href=\"https://nl.trustpilot.com/review/feestwinkel.nl\" target=\"_blank\">\n        <img class=\"logo-1\" src=\"https://cdn.shopify.com/s/files/1/0819/8950/1224/files/logo_mollie_voordeelboutique_goeie.png?v=1700079626\" alt=\"Logo Mollie 1\">\n    </a>\n    \n    <a href=\"https://nl.trustpilot.com/review/feestwinkel.nl\" target=\"_blank\">\n        <img class=\"logo-2\" src=\"https://cdn.shopify.com/s/files/1/0819/8950/1224/files/logo_mollie_voordeelboutique_goeie_2.png?v=1700081117\" alt=\"Logo Mollie 2\">\n    </a>\n</div>\n\n</body>\n</html>"
+          }
+        },
+        "hot_stock_t84rTp": {
+          "type": "hot_stock",
+          "disabled": true,
+          "settings": {
+            "hot_stock_style": "1",
+            "spacing_top": 0,
+            "spacing_bottom": 0
+          }
+        },
+        "0e4ea696-4820-4c98-aaa6-806d41782a3d": {
+          "type": "meta",
+          "disabled": true,
+          "settings": {
+            "show_sold_in": true,
+            "sold_in_number": "3,5,6,7,8,10,12,15",
+            "sold_in_hours": "10,15,16,17,18,20,25,35",
+            "color_text_sold_in": "#e95144",
+            "spacing_top": 0,
+            "spacing_bottom": 14
+          }
+        },
+        "4036f89b-c2c5-49a4-9d6b-2fd29ce7c46c": {
+          "type": "short_description",
+          "disabled": true,
+          "settings": {
+            "show_short_description": true,
+            "word_number": "17",
+            "fontsize_text": 12,
+            "color_text": "#3c3c3c",
+            "spacing_top": 0,
+            "spacing_bottom": 12
+          }
+        },
+        "4e59f24a-8859-4579-a80a-d70e6f1bf66b": {
+          "type": "info",
+          "disabled": true,
+          "settings": {
+            "show_vendor": false,
+            "show_sku": true,
+            "show_barcode": false,
+            "show_availability": true,
+            "show_product_type": true,
+            "stock_level_display": "none",
+            "enable_border_top": false,
+            "enable_border_bottom": false,
+            "color_border": "#e6e6e6",
+            "spacing_top": 0,
+            "spacing_bottom": 18
+          }
+        },
+        "4f95b592-8369-4ab0-b30d-24e463fb6890": {
+          "type": "price",
+          "settings": {
+            "fontsize_text": 18,
+            "spacing_top": 10,
+            "spacing_bottom": 25
+          }
+        },
+        "custom_information_6d6mqh": {
+          "type": "custom_information",
+          "settings": {
+            "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 512 512\" style=\"width: 18px; height: 18px;\">\n  <path d=\"M212.3 224.3H12c-6.6 0-12-5.4-12-12V12C0 5.4 5.4 0 12 0h48c6.6 0 12 5.4 12 12v78.1C117.8 39.3 184.3 7.5 258.2 8c136.9 1 246.4 111.6 246.2 248.5C504 393.3 393.1 504 256.3 504c-64.1 0-122.5-24.3-166.5-64.2-5.1-4.6-5.3-12.6-.5-17.4l34-34c4.5-4.5 11.7-4.7 16.4-.5C170.8 415.3 211.6 432 256.3 432c97.3 0 176-78.7 176-176 0-97.3-78.7-176-176-176-58.5 0-110.3 28.5-142.3 72.3h98.3c6.6 0 12 5.4 12 12v48c0 6.6-5.4 12-12 12z\"></path>\n</svg>",
+            "color_icon": "#232323",
+            "text": "Gratis Verzending vanaf €39,-",
+            "color_title": "#232323",
+            "text_description": "",
+            "color_des": "#999999",
+            "fontsize_text": 12,
+            "content_popup": "",
+            "spacing_top": 5,
+            "spacing_bottom": 5
+          }
+        },
+        "custom_information_CjLdgb": {
+          "type": "custom_information",
+          "settings": {
+            "icon": "<img src=\"https://cdn.shopify.com/s/files/1/0647/3878/7509/files/0x0_ebdf7474-ea3c-4621-9bb8-4080f44e2cec.webp?v=1724764090\" alt=\"Koop nu betaal later\" style=\"width: 18px;\">",
+            "color_icon": "#232323",
+            "text": "Koop nu, Betaal later",
+            "color_title": "#232323",
+            "text_description": "",
+            "color_des": "#999999",
+            "fontsize_text": 12,
+            "content_popup": "<div class=\"halo-text-format\">\n\t\t\t\t\t\t\n<p>\"Met 'Koop nu, Betaal later' via Klarna kun je je bestelling direct plaatsen en later betalen. Zodra je bestelling is verzonden, ontvang je een factuur van Klarna. Je hebt dan 30 dagen om je betaling te voltooien, zonder extra kosten. Zo kun je eerst genieten van je aankoop voordat je betaalt. <a href=\"https://www.klarna.com/nl/klantenservice/wat-is-betaal-later-achteraf-betalen/\" target=\"_blank\" rel=\"noopener\">Lees meer over Klarna.</a>\"\n.</p>\n\t\t\t\t\t\t\t</div>",
+            "spacing_top": 0,
+            "spacing_bottom": 0
+          }
+        },
+        "delivery_time_xR6Vt7": {
+          "type": "delivery_time",
+          "settings": {
+            "delivery_time_icon": "1",
+            "delivery_time_icon_size": 24,
+            "color_title": "#232323",
+            "txt": "Vandaag besteld? Verwachte levering [hour] \n[date_end]",
+            "fontsize_text": 12,
+            "d_start": 0,
+            "d_end": 1,
+            "exclude_day_from": "only_delivery",
+            "exclude_day": "SAT,SUN",
+            "frm_day": "d, DD MMM",
+            "time": "15:00:00",
+            "hr": "Uren",
+            "min": "minutes",
+            "spacing_top": 10,
+            "spacing_bottom": 10
+          }
+        },
+        "d98e243b-3682-495a-965a-1c7f7d460880": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "show_variant_image_group": false,
+            "enable_border_top": false,
+            "enable_border_bottom": false,
+            "color_border": "#e6e6e6",
+            "spacing_top": 0,
+            "spacing_bottom": 0
+          }
+        },
+        "d97e417a-941b-4a5d-bef3-a651adb918d8": {
+          "type": "variant_description",
+          "disabled": true,
+          "settings": {
+            "spacing_top": 0,
+            "spacing_bottom": 12
+          }
+        },
+        "faa2b3e6-c0a1-4269-baa6-d2605efe4c05": {
+          "type": "quantity_selector",
+          "settings": {
+            "qty_style": "2",
+            "qty_layout": "2",
+            "spacing_top": 0,
+            "spacing_bottom": 15
+          }
+        },
+        "04ea8843-f461-4f1d-8ea4-43f62fdfb21e": {
+          "type": "perks",
+          "disabled": true,
+          "settings": {
+            "show_size_chart": true,
+            "size_chart_type": "custom_image",
+            "size_chart_page": "",
+            "size_chart_image_type": "jpg",
+            "show_compare_color": true,
+            "show_compare_color_drop_drap": true,
+            "compare_layout": "1",
+            "spacing_top": 0,
+            "spacing_bottom": 22
+          }
+        },
+        "inventory_status_gYADf7": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 10
+          }
+        },
+        "f1b31d90-1e43-4948-9fe3-97ba43f6fb34": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false,
+            "atc_animation": "none",
+            "atc_color": "#ffffff",
+            "atc_border_color": "#ff8b21",
+            "atc_bg_color": "#ff9900",
+            "atc_bg_color_gradient": "",
+            "atc_color_hover": "#ffffff",
+            "atc_border_color_hover": "#ff7b00",
+            "atc_bg_color_hover": "#ff7b00",
+            "atc_bg_color_gradient_hover": "",
+            "bin_color": "#232323",
+            "bin_border_color": "#acacac",
+            "bin_bg_color": "#ffffff",
+            "bin_bg_color_gradient": "",
+            "bin_color_hover": "#ffffff",
+            "bin_border_color_hover": "#232323",
+            "bin_bg_color_hover": "#232323",
+            "bin_bg_color_hover_gradient": "",
+            "spacing_top": 0,
+            "spacing_bottom": 15
+          }
+        },
+        "delivery_time_V4X8KJ": {
+          "type": "delivery_time",
+          "disabled": true,
+          "settings": {
+            "delivery_time_icon": "none",
+            "delivery_time_icon_size": 24,
+            "color_title": "#d30b51",
+            "txt": "<body>\n\n\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Zakelijk Bestellen Link met Gekleurd Bolletje</title>\n    <style>\n        /* Basisstijl voor de link: kleur D30B51, geen standaard onderstreping */\n        .zakelijk-bestellen-link {\n            text-decoration: none; /* Verwijdert de standaard onderstreping */\n            color: #D30B51; /* Standaardkleur van de link is D30B51 */\n        }\n\n        /* Stijl wanneer de muis over de link beweegt (hover) */\n        .zakelijk-bestellen-link:hover {\n            color: #D30B51; /* De kleur blijft D30B51 bij hover */\n            text-decoration: underline; /* Onderstreping verschijnt bij hover */\n        }\n\n        /* Deze regels zorgen ervoor dat de link NIET onderstreept is als bezocht of actief,\n           en altijd de kleur D30B51 behoudt. */\n        .zakelijk-bestellen-link:visited {\n            text-decoration: none;\n            color: #D30B51; /* Bezochte link heeft ook de kleur D30B51 */\n        }\n\n        .zakelijk-bestellen-link:active {\n            text-decoration: none;\n            color: #D30B51; /* Actieve link heeft ook de kleur D30B51 */\n        }\n\n        /* Stijlen voor de lijst en het bolletje */\n        ul.custom-bullet-list {\n            list-style-type: disc; /* Zorgt voor de ronde bolletjes (standaard) */\n            margin-left: 20px; /* Pas deze waarde aan om de inspringing te wijzigen */\n            padding-left: 0;\n        }\n\n        ul.custom-bullet-list li {\n            /* De kleur van de tekst binnen het lijstitem kan de kleur van het bolletje beïnvloeden,\n               maar we gebruiken ::marker voor directe controle. */\n            margin-bottom: 5px; /* Voeg een beetje ruimte toe tussen lijstitems als je meerdere hebt */\n        }\n\n        /* NIEUW: Stijl voor het bolletje zelf */\n        ul.custom-bullet-list li::marker {\n            color: #5a5a5a; /* De gewenste kleur voor het bolletje */\n        }\n\n    </style>\n\n\n\n    <ul class=\"custom-bullet-list\">\n        <li>\n            <a href=\"https://feestwinkel-nl.myshopify.com/pages/zakelijk-bestellen\" class=\"zakelijk-bestellen-link\">Zakelijk bestellen [hour]tot 35%.</a>\n        </li>\n    </ul>\n\n\n</body>",
+            "fontsize_text": 14,
+            "d_start": 0,
+            "d_end": 1,
+            "exclude_day_from": "only_delivery",
+            "exclude_day": "SAT,SUN",
+            "frm_day": "d, DD MMM",
+            "time": "15:00:00",
+            "hr": "Uren",
+            "min": "minuten",
+            "spacing_top": 0,
+            "spacing_bottom": 0
+          }
+        },
+        "683f2b15-db3b-4f63-8d0f-e688cc678581": {
+          "type": "customer_viewing",
+          "disabled": true,
+          "settings": {
+            "customer_viewing_number": "283, 100, 59, 11, 14, 185, 193, 165, 50, 38, 99, 112, 46, 10, 125, 200, 250, 18",
+            "customer_viewing_time": 5,
+            "spacing_top": 0,
+            "spacing_bottom": 22
+          }
+        },
+        "19de9abb-17c8-4d67-941d-b32706ed06fd": {
+          "type": "pickup_availability",
+          "settings": {
+            "show_pickup_availability": true,
+            "spacing_top": 0,
+            "spacing_bottom": 27
+          }
+        },
+        "10093fcf-2053-47e9-bedb-841bb0d046fa": {
+          "type": "trust_image",
+          "settings": {
+            "show_trust_image": true,
+            "spacing_top": 0,
+            "spacing_bottom": 0
+          }
+        },
+        "bd066b80-c8e3-4f3e-8280-b27fbf6e9423": {
+          "type": "description",
+          "settings": {
+            "open_tab_mobile": true,
+            "title": "Omschrijving",
+            "enable_btn_show_more": false,
+            "maximum_des_to_show": 300
+          }
+        },
+        "87197f5f-be0e-4b89-9270-62bf6917ebe7": {
+          "type": "custom",
+          "settings": {
+            "open_tab_mobile": false,
+            "title": "specificaties",
+            "type": "all",
+            "content": "<body>\n\n\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Product Specificaties - Witte Achtergrond</title>\n    <style>\n        body {\n            font-family: sans-serif; /* Een gangbaar, leesbaar lettertype */\n            margin: 0px;\n            background-color: #ffffff; /* Achtergrondkleur van de pagina is nu wit */\n            /* Je kunt ook 'background-color: white;' gebruiken */\n        }\n\n        .specificaties-container {\n            width: 100%;\n            max-width: 600px; /* Optioneel: Maximale breedte voor de container */\n            margin: 0px;\n            border: 1px solid #e0e0e0; /* Een lichte rand rondom */\n            background-color: #fff; /* Witte achtergrond voor de inhoud van de specificaties */\n            padding: 20px;\n            box-sizing: border-box; /* Zorgt ervoor dat padding en border binnen de breedte vallen */\n        }\n\n        .specificaties-header {\n            display: flex;\n            justify-content: center; /* Centreer de titel */\n            align-items: center;\n            margin-bottom: 20px;\n        }\n\n        .specificaties-titel {\n            font-size: 1.2em;\n            font-weight: bold;\n            color: #D30B51; /* De rode kleur voor \"Specificaties\" */\n            text-align: center; /* Centreer de titel */\n        }\n\n        .specificatie-rij {\n            display: flex;\n            justify-content: space-between; /* Spreid de label en de waarde */\n            padding: 10px 0;\n            border-bottom: 1px solid #eee; /* Lichte lijn onder elke rij */\n            align-items: center; /* Centreer verticaal */\n        }\n\n        .specificatie-rij:last-child {\n            border-bottom: none; /* Geen lijn onder de laatste rij */\n        }\n\n        .specificatie-label {\n            font-weight: normal; /* Labels zijn niet vetgedrukt in de afbeelding */\n            color: #333;\n            flex-basis: 45%; /* Geef de label wat ruimte */\n        }\n\n        .specificatie-waarde {\n            color: #666;\n            text-align: right; /* Waarde rechts uitlijnen */\n            flex-basis: 50%; /* Geef de waarde wat ruimte */\n        }\n\n        /* Stijlen voor de specifieke rijen met de donkere achtergrond (deze blijven grijs) */\n        .specificatie-rij.dark-background {\n            background-color: #f0f0f0; /* Een iets donkerdere achtergrond */\n        }\n    </style>\n\n\n\n    <div class=\"specificaties-container\">\n        <div class=\"specificaties-header\">\n            <h2 class=\"specificaties-titel\">Specificaties</h2>\n        </div>\n\n        <div class=\"specificatie-rij\">\n            <span class=\"specificatie-label\">Artikelnummer</span>\n            <span class=\"specificatie-waarde\">67905</span>\n        </div>\n        <div class=\"specificatie-rij dark-background\">\n            <span class=\"specificatie-label\">Leverancier</span>\n            <span class=\"specificatie-waarde\">Folat</span>\n        </div>\n\n        <div class=\"specificatie-rij\">\n            <span class=\"specificatie-label\">Feestgelegenheid</span>\n            <span class=\"specificatie-waarde\">Verjaardag</span>\n        </div>\n        <div class=\"specificatie-rij dark-background\">\n            <span class=\"specificatie-label\">Doelgroep</span>\n            <span class=\"specificatie-waarde\">Volwassenen</span>\n        </div>\n\n        <div class=\"specificatie-rij\">\n            <span class=\"specificatie-label\">Producttype</span>\n            <span class=\"specificatie-waarde\">Folie/Helium ballonnen</span>\n        </div>\n        <div class=\"specificatie-rij dark-background\">\n            <span class=\"specificatie-label\">Productkleur</span>\n            <span class=\"specificatie-waarde\">Meerkleurig</span>\n        </div>\n\n    </div>\n\n\n</body>",
+            "product_custom_source": "dynamic",
+            "product_tab_key_metafield": "",
+            "enable_btn_show_more": false,
+            "maximum_des_to_show": 300
+          }
+        },
+        "3d9ea84d-5527-4bce-abe6-5debef3ec955": {
+          "type": "custom",
+          "disabled": true,
+          "settings": {
+            "open_tab_mobile": false,
+            "title": "Verzending",
+            "type": "all",
+            "content": "<h3>Returns Policy</h3>\n<p>You may return most new, unopened items within 30 days of delivery for a full refund. We'll also pay the return shipping costs if the return is a result of our error (you received an incorrect or defective item, etc.).</p>\n<p>You should expect to receive your refund within four weeks of giving your package to the return shipper, however, in many cases you will receive a refund more quickly. This time period includes the transit time for us to receive your return from the shipper (5 to 10 business days), the time it takes us to process your return once we receive it (3 to 5 business days), and the time it takes your bank to process our refund request (5 to 10 business days).</p>\n<p>If you need to return an item, simply login to your account, view the order using the \"Complete Orders\" link under the My Account menu and click the Return Item(s) button. We'll notify you via e-mail of your refund once we've received and processed the returned item.</p>\n<h3>Shipping</h3>\n<p>We can ship to virtually any address in the world. Note that there are restrictions on some products, and some products cannot be shipped to international destinations.</p>\n<p>When you place an order, we will estimate shipping and delivery dates for you based on the availability of your items and the shipping options you choose. Depending on the shipping provider you choose, shipping date estimates may appear on the shipping quotes page.</p>\n<p>Please also note that the shipping rates for many items we sell are weight-based. The weight of any such item can be found on its detail page. To reflect the policies of the shipping companies we use, all weights will be rounded up to the next full pound.</p>",
+            "product_custom_source": "dynamic",
+            "product_tab_key_metafield": "",
+            "enable_btn_show_more": false,
+            "maximum_des_to_show": 300
+          }
+        },
+        "b9d6eb19-10f4-41f8-bfdc-ea10e8b3182a": {
+          "type": "custom",
+          "disabled": true,
+          "settings": {
+            "open_tab_mobile": false,
+            "title": "Custom Tab",
+            "type": "all",
+            "content": "<table>\n    <tbody>\n        <tr>\n            <td class=\"tb-title\">Drostique</td>\n            <td>Nam tempus turpis at metus scelerisque placerat nulla deumantos</td>\n        </tr>\n        <tr>\n            <td class=\"tb-title\">Pharetro Lorem</td>\n            <td>Pellentesque diam dolor elementum etos lobortis des mollis</td>\n        </tr>\n        <tr>\n            <td class=\"tb-title\">Milancelos</td>\n            <td>Donec pretium egestas sapien et mollis</td>\n        </tr>\n        <tr>\n            <td class=\"tb-title\">Pellentesque</td>\n            <td>Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras</td>\n        </tr>\n        <tr>\n            <td class=\"tb-title\">Proin Molestie</td>\n            <td>Pellentesque diam dolor elementum etos lobortis des mollis</td>\n        </tr>\n        <tr>\n            <td class=\"tb-title\">Cosmopolis</td>\n            <td>Donec pretium egestas sapien et mollis</td>\n        </tr>\n    </tbody>\n</table>",
+            "product_custom_source": "dynamic",
+            "product_tab_key_metafield": "",
+            "enable_btn_show_more": false,
+            "maximum_des_to_show": 300
+          }
+        },
+        "custom_liquid_BGHbpf": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div style=\"display: flex; justify-content: center; margin-top: 0px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0647/3878/7509/files/Payment_1.png?v=1724765982\" alt=\"Payment 1\" style=\"width: 400px;\">\n</div>"
+          }
+        },
+        "19ab1d9f-74b2-4c76-bf2e-1bc749e5c2a3": {
+          "type": "share",
+          "settings": {
+            "show_share": true,
+            "share_layout": "3",
+            "spacing_top": 0,
+            "spacing_bottom": 0
+          }
+        },
+        "9630b233-8164-4dad-ab64-8830bedf328a": {
+          "type": "complementary_products",
+          "settings": {
+            "complementary_product_title": "Pairs well with",
+            "complementary_product_layout": "2",
+            "complementary_product_limit_1": 2,
+            "complementary_product_limit_2": 3,
+            "complementary_product_arrows": false,
+            "complementary_product_dots": true,
+            "complementary_product_object": "cover",
+            "complementary_product_button_atc": false,
+            "spacing_top": 30,
+            "spacing_bottom": 0
+          }
+        }
+      },
+      "block_order": [
+        "2e8c7c14-a0ad-4930-a1d8-3def05310426",
+        "b0ea69b7-8a54-4a3c-9abd-0fcceeabaaa0",
+        "custom_liquid_HM8Qfn",
+        "hot_stock_t84rTp",
+        "0e4ea696-4820-4c98-aaa6-806d41782a3d",
+        "4036f89b-c2c5-49a4-9d6b-2fd29ce7c46c",
+        "4e59f24a-8859-4579-a80a-d70e6f1bf66b",
+        "4f95b592-8369-4ab0-b30d-24e463fb6890",
+        "custom_information_6d6mqh",
+        "custom_information_CjLdgb",
+        "delivery_time_xR6Vt7",
+        "d98e243b-3682-495a-965a-1c7f7d460880",
+        "d97e417a-941b-4a5d-bef3-a651adb918d8",
+        "faa2b3e6-c0a1-4269-baa6-d2605efe4c05",
+        "04ea8843-f461-4f1d-8ea4-43f62fdfb21e",
+        "inventory_status_gYADf7",
+        "f1b31d90-1e43-4948-9fe3-97ba43f6fb34",
+        "delivery_time_V4X8KJ",
+        "683f2b15-db3b-4f63-8d0f-e688cc678581",
+        "19de9abb-17c8-4d67-941d-b32706ed06fd",
+        "10093fcf-2053-47e9-bedb-841bb0d046fa",
+        "bd066b80-c8e3-4f3e-8280-b27fbf6e9423",
+        "87197f5f-be0e-4b89-9270-62bf6917ebe7",
+        "3d9ea84d-5527-4bce-abe6-5debef3ec955",
+        "b9d6eb19-10f4-41f8-bfdc-ea10e8b3182a",
+        "custom_liquid_BGHbpf",
+        "19ab1d9f-74b2-4c76-bf2e-1bc749e5c2a3",
+        "9630b233-8164-4dad-ab64-8830bedf328a"
+      ],
+      "settings": {
+        "container": "container",
+        "padding_full_width": 0,
+        "show_sticky_info": true,
+        "media_fit": "unset",
+        "product_image_ratio": "square",
+        "portrait_aspect_ratio": 101,
+        "video_layout": "popup",
+        "zoomed_image": true,
+        "product_image_popup": "fancybox",
+        "main_image_show_custom_cursor": true,
+        "icon_color": "#000000",
+        "main_image_position": "left",
+        "main_image_layout": "1",
+        "main_image_arrows_desktop": false,
+        "main_image_arrows_mobile": true,
+        "main_image_counter_mobile": true,
+        "main_image_enable_parallax_mb": false,
+        "main_image_show_zoom_icon_mb": true,
+        "show_thumbnail_mobile": true,
+        "thumnail_layout": "4",
+        "thumbnail_to_show": 4,
+        "enable_sticky": false,
+        "sidebar_layout": "layout_1",
+        "sidebar_collapse": "collapse",
+        "sidebar_collapse_default": "expand",
+        "sidebar_position": "left",
+        "sidebar_heading_font": "font_1",
+        "sidebar_heading_font_size": 14,
+        "sidebar_heading_font_weight": "700",
+        "sidebar_heading_text_transform": "uppercase",
+        "show_badge": false,
+        "show_subtotal": false,
+        "subtotal_style": "1",
+        "show_sticky_add_to_cart": true,
+        "sticky_atc_layout": "1",
+        "enable_sticky_add_to_cart_always_mobile": false,
+        "show_sticky_vendor": false,
+        "show_quick_order_list": false,
+        "show_image": false,
+        "show_sku": false,
+        "show_tab": true,
+        "tab_layout": "vertical",
+        "tab_layout_mobile": "vertical",
+        "icon_style_layout": "style_1",
+        "title_font_size": 18,
+        "title_font_size_mb": 16,
+        "font_weight_title": "600",
+        "title_text_transform": "none",
+        "title_padding_top_bottom": 15,
+        "tab_border_color": "#000000",
+        "tab_border_color_rgb": "",
+        "show_product_bundle": false,
+        "background_color": "#f8f8f8",
+        "block_title": "Frequenly Bought Together",
+        "block_title_align": "left",
+        "product_style": "2",
+        "block_image_ratio": "adapt",
+        "bundle_discount": false,
+        "bundle_discount_text": "Get a [discount]% discount buying these products together",
+        "bundle_discount_text_color": "#232323",
+        "total_btn_color": "#ffffff",
+        "total_btn_border": "#ff8b21",
+        "total_btn_bg": "#ff8b21",
+        "total_btn_bg_gradient": "",
+        "total_btn_color_hover": "#ffffff",
+        "total_btn_border_hover": "#ff7a00",
+        "total_btn_bg_hover": "#ff7a00",
+        "total_btn_bg_gradient_hover": "",
+        "block_dots": false,
+        "block_arrows": true,
+        "padding_top": 30,
+        "padding_top_tablet": 30,
+        "padding_top_mobile": 30,
+        "padding_bottom": 70,
+        "padding_bottom_tablet": 40,
+        "padding_bottom_mobile": 30,
+        "mg_top_desktop": 0,
+        "mg_top_tablet": 0,
+        "mg_top_mobile": 0,
+        "mg_bottom_desktop": 0,
+        "mg_bottom_tablet": 0,
+        "mg_bottom_mobile": 0
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "display_product_block": true,
+        "product_block_container": "container",
+        "padding_full_width": 0,
+        "enable_border_top": true,
+        "enable_border_bottom": false,
+        "color_border_bottom": "#e8e8e8",
+        "border_style": "container",
+        "mg_top_desktop": 40,
+        "mg_top_tablet": 35,
+        "mg_top_mobile": 35,
+        "mg_bottom_desktop": 0,
+        "mg_bottom_tablet": 0,
+        "mg_bottom_mobile": 0,
+        "product_block_layout": "slider",
+        "product_bg": "#ffffff",
+        "style_block_header": "style1",
+        "product_block_title": "Dit vinden anderen ook leuk",
+        "enable_border_title": false,
+        "mg_top_title": 27,
+        "mg_bottom_title": 3,
+        "fontsize_title": 18,
+        "fontsize_title_mb": 18,
+        "color_title": "#232323",
+        "border_color_title": "#232323",
+        "product_block_title_align": "center",
+        "product_block_limit": 10,
+        "grid_gap": 30,
+        "product_block_per_row": "4",
+        "product_block_swipe_on_mobile": true,
+        "product_block_dots": false,
+        "product_block_dots_mb": true,
+        "product_block_arrows": true,
+        "product_block_arrows_mb": false,
+        "product_block_show": "4",
+        "product_block_per_view": "4",
+        "show_half": true,
+        "scroll_height": 4,
+        "scroll_track_bg": "#f1f1f1",
+        "scroll_thumb_color": "#000000",
+        "scroll_thumb_hover_color": "#444444",
+        "enable_layout_special": false,
+        "bg_card": "#ffffff",
+        "padding_card": 15,
+        "border_radius_card": 5,
+        "border_layout_card": "full",
+        "border_width_card": 5,
+        "border_color_card": "#f0f1f4"
+      }
+    },
+    "product-recently-viewed": {
+      "type": "product-recently-viewed",
+      "settings": {
+        "display_product_recently_viewed": true,
+        "product_recently_viewed_container": "container",
+        "padding_full_width": 0,
+        "enable_border_top": true,
+        "enable_border_bottom": false,
+        "color_border_bottom": "#e8e8e8",
+        "border_style": "container",
+        "mg_top_desktop": 80,
+        "mg_top_tablet": 50,
+        "mg_top_mobile": 30,
+        "mg_bottom_desktop": 0,
+        "mg_bottom_tablet": 0,
+        "mg_bottom_mobile": 0,
+        "product_recently_viewed_layout": "slider",
+        "product_bg": "#ffffff",
+        "product_bg_gradient": "",
+        "style_block_header": "style1",
+        "product_recently_viewed_title": "Recent bekeken",
+        "enable_border_title": false,
+        "mg_top_title": 27,
+        "mg_bottom_title": 3,
+        "fontsize_title": 18,
+        "fontsize_title_mb": 18,
+        "border_color_title": "#232323",
+        "color_title": "#232323",
+        "product_recently_viewed_title_align": "center",
+        "product_recently_viewed_limit": 10,
+        "product_recently_viewed_image_ratio": "adapt",
+        "grid_gap": 30,
+        "product_recently_viewed_per_row": "4",
+        "product_recently_viewed_swipe_on_mobile": true,
+        "product_recently_viewed_dots": false,
+        "product_recently_viewed_dots_mb": true,
+        "product_recently_viewed_arrows": true,
+        "product_recently_viewed_arrows_mb": false,
+        "product_recently_viewed_show": "4",
+        "product_block_per_view": "4",
+        "show_half": true,
+        "scroll_height": 4,
+        "scroll_track_bg": "#f1f1f1",
+        "scroll_thumb_color": "#000000",
+        "scroll_thumb_hover_color": "#444444",
+        "enable_layout_special": false,
+        "bg_card": "#ffffff",
+        "padding_card": 15,
+        "border_radius_card": 5,
+        "border_layout_card": "full",
+        "border_width_card": 5,
+        "border_color_card": "#f0f1f4"
+      }
+    },
+    "customer_review_block_3Vgz6V": {
+      "type": "customer-review-block",
+      "blocks": {
+        "review_izkWTT": {
+          "type": "review",
+          "settings": {
+            "heading": "Awesome...",
+            "sub_heading": "",
+            "rating": "star5",
+            "name": "",
+            "date": "Wednesday, Jan 26, 2019",
+            "body": "Nam tempus turpis at metus scelerisque placerat nulla deumantos delo sollicitudin delos felis. Pellentesque diam dolor an elementum et lobortis at mollis ut risus. Curabitur semper sagittis mi condimentum..."
+          }
+        }
+      },
+      "block_order": [
+        "review_izkWTT"
+      ],
+      "disabled": true,
+      "settings": {
+        "container": "container",
+        "padding_full_width": 0,
+        "section_style": "style_1",
+        "review_bg": "#fafafa",
+        "review_bg_gradient": "",
+        "enable_heading_style_2": false,
+        "review_title": "Top Reviews",
+        "color_title": "#232323",
+        "mg_bottom_title": 18,
+        "fontsize_title": 16,
+        "fontsize_title_mb": 16,
+        "review_des": "",
+        "color_des": "#3c3c3c",
+        "margin_bottom_des": 35,
+        "fontsize_des": 16,
+        "title_align": "center",
+        "block_layout_style": "layout1",
+        "review_rows": "1",
+        "show_arrow": true,
+        "center_mode": false,
+        "show_avatar": true,
+        "avatar_margin_bottom": 10,
+        "color_heading": "#202020",
+        "fontsize_heading": 20,
+        "heading_margin_bottom": 14,
+        "heading_font_weight": "400",
+        "color_sub_heading": "#808080",
+        "fontsize_sub_heading": 13,
+        "sub_heading_margin_bottom": 20,
+        "color_name": "#202020",
+        "fontsize_name": 14,
+        "name_margin_bottom": 0,
+        "color_date": "#808080",
+        "fontsize_date": 13,
+        "color_body": "#202020",
+        "fontsize_body": 16,
+        "body_margin_bottom": 24,
+        "color_icon": "#ffffff",
+        "bg_color_icon": "#cbcbcb",
+        "star_font_size": 25,
+        "star_margin_bottom": 0,
+        "start_position": "below_title",
+        "star_color": "#000000",
+        "star_empty_color": "#cccccc",
+        "scroll_height": 4,
+        "scroll_track_bg": "#f1f1f1",
+        "scroll_thumb_color": "#000000",
+        "scroll_thumb_hover_color": "#444444",
+        "mg_top_desktop": 50,
+        "mg_top_tablet": 50,
+        "mg_top_mobile": 50,
+        "mg_bottom_desktop": 50,
+        "mg_bottom_tablet": 50,
+        "mg_bottom_mobile": 50
+      }
+    }
+  },
+  "order": [
+    "main",
+    "product-recommendations",
+    "product-recently-viewed",
+    "customer_review_block_3Vgz6V"
+  ]
+}

@@ -1,0 +1,195 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-faqs-page",
+      "blocks": {
+        "15d9d2f4-1bdd-49c8-9a99-58246020f05c": {
+          "type": "paragraph",
+          "settings": {
+            "title": "Bestellen",
+            "question_1": "Hoe kan ik een bestelling plaatsen?",
+            "answer_1": "<p>Het bestellen op partyperfection.nl gaat eenvoudig en snel. Allereerst selecteer je de producten die je wilt kopen en deze voeg je toe aan je winkelwagen. Via de winkelwagen knop aan de rechter bovenkant van de website kun je de winkelwagen bekijken en, als je dit nog wilt, de aantallen per product aanpassen, een product verwijderen of bijpassende producten toevoegen. \n<br> <br>\nBen je tevreden met wat er in je winkelwagen zit? Druk dan op bestellen en vul de gevraagde contact en verzendinformatie in. Na het doorlopen van je gewenste betaalmethode is de bestelling geplaatst en ontvang je hiervan een bevestiging in je mail.</p>",
+            "question_2": "Ik heb een bestelling geplaatst, hoe kan ik zien of deze goed is aangekomen?",
+            "answer_2": "<p>Als je een bestelling hebt geplaatst, dan ontvang je hiervan een bevestiging in je mail met een overzicht van de bestelde producten. Wanneer wij de bestelling hebben ingepakt en deze klaar is voor verzending ontvang je hiervan een bevestiging en ontvang je verdere updates over de bezorgtijden in uw mail.</p>",
+            "question_3": "Kan ik de producten ook in de winkel ophalen?",
+            "answer_3": "<p>Dit is mogelijk. Partyperfection.nl is een webshop, maar je bent van harte welkom om langs te komen. Je kunt bij ons in het magazijn ook zelf de producten bekijken en \"winkelen\".</p>",
+            "question_4": "Hoe zie ik of een product op voorraad is?",
+            "answer_4": "<p>Producten die op onze website staan, zijn op voorraad. Is een artikel niet op voorraad? Dan wordt deze niet getoond of kun je deze niet toevoegen aan de winkelwagen. Wil je toch een hoger aantal dan we op voorraad hebben? Of wil je een artikel bestellen dat niet op voorraad is? <br><br> Neem hiervoor <a href=\"https://partyperfection.nl/pages/contact-1\">contact</a> met ons op.</p>",
+            "question_5": "Op welke manieren kan ik betalen?",
+            "answer_5": "<p>Je kunt bij ons betalen met verschillende betaalmogelijkheden zoals: iDeal, Klarna Achteraf betalen etc.\n</p>",
+            "question_6": "Geldt er een minimum bestelbedrag?",
+            "answer_6": "<p>Op Partyperfection.nl is elke klant van harte welkom. Of je nou een kleine of grote bestelling wilt plaatsen, wij zijn blij met jou als klant.\n</p>",
+            "question_7": "Zijn alle producten op voorraad?",
+            "answer_7": "<p>In principe zijn alle producten die op onze webshop getoond worden op voorraad. Helaas kan het af en toe gebeuren dat er een mutatie is in de voorraad of dat er meer wordt besteld dan dat er op voorraad is. In de meeste gevallen kunnen wij de artikelen dan nog steeds zeer snel leveren, wij nemen hiervoor altijd contact op mocht dit gebeuren.</p>",
+            "question_8": "Is het mogelijk om meer te bestellen dan dat jullie op voorraad hebben?",
+            "answer_8": "<p>Ja, dit is in de meeste gevallen zeker mogelijk. Veel van onze artikelen worden ook snel door onze leveranciers aan ons bezorgd. Dus mocht je meer willen bestellen dan de voorraad op onze site aangeeft, neem dan <a href=\"https://partyperfection.nl/pages/contact-1\">telefonisch of per mail contact</a> met ons op en we kunnen je direct laten weten hoelang het duurt voordat we de producten kunnen toesturen.</p>",
+            "question_9": "",
+            "answer_9": "",
+            "question_10": "",
+            "answer_10": ""
+          }
+        },
+        "f4d12560-a07c-4bd4-a934-2a8eddeaccc9": {
+          "type": "paragraph",
+          "settings": {
+            "title": "Verzenden",
+            "question_1": "Wat zijn de verzendkosten?",
+            "answer_1": "<p>Wij verzenden bestellingen binnen Nederland en België. Wanneer je bestelt voor een bedrag onder de € 39,- worden er verzendkosten in rekening gebracht. Voor Nederland bedragen deze verzendkosten € 4,95 per pakket en € 5,95. Je ziet in de winkelwagen direct welke kosten er voor jouw bestelling gelden. Voor België zijn de standaard verzendkosten € 7,95.</p>",
+            "question_2": "Ontvang ik een track & trace bij mijn bestelling?",
+            "answer_2": "<p>Ja, je ontvangt altijd een track &amp; trace bij je bestelling. Hiermee weet je dus altijd wanneer de bestelling (ongeveer) bezorgd gaat worden. Wel zo fijn en overzichtelijk.</p>",
+            "question_3": "Op welke dagen worden bestellingen verzonden?",
+            "answer_3": "<p>Wij verzenden de bestellingen van maandag tot en met vrijdag. Plaats je een bestelling op vrijdag na 17:00 uur of in het weekend? Dan wordt deze op maandag ingepakt en verzonden.</p>",
+            "question_4": "",
+            "answer_4": "",
+            "question_5": "",
+            "answer_5": "",
+            "question_6": "",
+            "answer_6": "",
+            "question_7": "",
+            "answer_7": "",
+            "question_8": "",
+            "answer_8": "",
+            "question_9": "",
+            "answer_9": "",
+            "question_10": "",
+            "answer_10": ""
+          }
+        },
+        "paragraph_hqiy8X": {
+          "type": "paragraph",
+          "settings": {
+            "title": "Afhalen",
+            "question_1": "Kan ik mijn bestelling ook afhalen?",
+            "answer_1": "<p>Kun je niet wachten op je bestelling en wil je de bestelling komen afhalen, dan kan dit uiteraard en kan je na online betaling kiezen om de bestelling af te halen.</p>",
+            "question_2": "Op welke dagen en uren is Partyperfection.nl geopend?",
+            "answer_2": "<p>Wij zijn geopend op werkdagen (maandag tot met vrijdag) van 8.30 - 15.00 uur op locatie. Heb je buiten deze tijden een vraag? Dan kun je het beste per mail contact opnemen, deze lezen en beantwoorden wij ook (zoveel mogelijk) in de avond en het weekend.</p>",
+            "question_3": "",
+            "answer_3": "",
+            "question_4": "",
+            "answer_4": "",
+            "question_5": "",
+            "answer_5": "",
+            "question_6": "",
+            "answer_6": "",
+            "question_7": "",
+            "answer_7": "",
+            "question_8": "",
+            "answer_8": "",
+            "question_9": "",
+            "answer_9": "",
+            "question_10": "",
+            "answer_10": ""
+          }
+        },
+        "paragraph_tqGGTa": {
+          "type": "paragraph",
+          "settings": {
+            "title": "Ontvangst",
+            "question_1": "Wat moet ik doen als mijn bestelling niet aankomt en er wel in de track & trace staat dat dit bezorgd is?",
+            "answer_1": "<p>Helaas kan het soms gebeuren dat een bestelling als 'bezorgd' staat, maar nog niet is aangekomen. In de meeste gevallen is het pakketje bij de buren afgegeven, omdat je niet thuis was (of de bezorger dit dacht). Vraag dus altijd even bij de buren of zij het pakket hebben ontvangen. Kun je het na navraag bij de buren nog steeds niet vinden? Neem dan <a href=\"https://partyperfection.nl/pages/contact-1\">contact</a> met ons op. Wij zoeken graag voor je uit waar je bestelling is gebleven.</p>",
+            "question_2": "Wat moet ik doen als de bestelling beschadigd binnenkomt?",
+            "answer_2": "<p>Soms kan het gebeuren dat een bestelling onderweg beschadigd raakt, dat is natuurlijk niet de bedoeling. Is dat gebeurd? Neem contact met ons op en we sturen graag een nieuw artikel toe. Is dit te laat voor het feestje? Wij denken altijd mee voor een nette oplossing.</p>",
+            "question_3": "Wat moet ik doen als er iets in de bestelling ontbreekt?",
+            "answer_3": "<p>Het kan voorkomen dat er per ongeluk iets misgaat bij het inpakken van je bestelling. Dat vinden wij natuurlijk erg vervelend, en we lossen het graag snel voor je op. Neem <a href=\"https://partyperfection.nl/pages/contact-1\">contact</a> met ons op, dan sturen we het ontbrekende artikel direct naar je op. Is het helaas te laat voor het feestje? Geen zorgen, we denken graag mee over een passende oplossing.</p>",
+            "question_4": "Wat moet ik doen als er een artikel kapot is?",
+            "answer_4": "<p>Heel soms kan het gebeuren dat een product kapot in de verpakking zit of dat een ballon knapt bij het opblazen. Dat is natuurlijk niet de bedoeling. Wij denken graag met je mee voor een passende oplossing en sturen je graag een nieuw product toe. Neem <a href=\"https://partyperfection.nl/pages/contact-1\">contact</a> met ons op, dan zorgen we dat het snel wordt opgelost.</p>",
+            "question_5": "",
+            "answer_5": "",
+            "question_6": "",
+            "answer_6": "",
+            "question_7": "",
+            "answer_7": "",
+            "question_8": "",
+            "answer_8": "",
+            "question_9": "",
+            "answer_9": "",
+            "question_10": "",
+            "answer_10": ""
+          }
+        },
+        "paragraph_Q36knj": {
+          "type": "paragraph",
+          "settings": {
+            "title": "Retourneren",
+            "question_1": "Ik wil mijn bestelling retour sturen, hoe doe ik dit?",
+            "answer_1": "<p>Wil je je bestelling na ontvangst herroepen? Dat kan en mag binnen 14 dagen na ontvangst van de bestelling zonder geldige reden. Stuur ons een mail en je ontvangt een retourlabel op de mail, dit is wel voor eigen rekening. U betaalt. € 4,95 per pakket</p>",
+            "question_2": "Ik wil een deel van mijn bestelling retour sturen, hoe doe ik dit?",
+            "answer_2": "<p>Wij zorgen ervoor dat dit netjes verrekend wordt en dat alles soepel verloopt.</p>",
+            "question_3": "",
+            "answer_3": "",
+            "question_4": "",
+            "answer_4": "",
+            "question_5": "",
+            "answer_5": "",
+            "question_6": "",
+            "answer_6": "",
+            "question_7": "",
+            "answer_7": "",
+            "question_8": "",
+            "answer_8": "",
+            "question_9": "",
+            "answer_9": "",
+            "question_10": "",
+            "answer_10": ""
+          }
+        }
+      },
+      "block_order": [
+        "15d9d2f4-1bdd-49c8-9a99-58246020f05c",
+        "f4d12560-a07c-4bd4-a934-2a8eddeaccc9",
+        "paragraph_hqiy8X",
+        "paragraph_tqGGTa",
+        "paragraph_Q36knj"
+      ],
+      "settings": {
+        "container": "1170",
+        "padding_full_width": 0,
+        "show_breadcrumb": true,
+        "breadcrumb_alignment": "left",
+        "breadcrumb_bg": "",
+        "breadcrumb_gradient": "",
+        "breadcrumb_bg_mb": "#f6f6f6",
+        "breadcrumb_gradient_mb": "",
+        "show_page_title": true,
+        "page_title_alignment": "left",
+        "show_faqs_filter": true,
+        "faqs_text": "<p>Veelgestelde vragen – snel geregeld!\n<br> 💬 Stuur je vraag naar ons – we helpen je graag! <a href=\"https://partyperfection.nl/pages/contact-1\" style=\"text-decoration: underline;\">Contact</a>.</p>",
+        "faqs_message_heading": "✨ Kunnen we je helpen?",
+        "faqs_message_text": "<span>Heb je een vraag of een probleem dat snel opgelost moet worden? Stuur ons gerust een e-mail en wij doen ons best om binnen 20-36 uur te reageren!\n\n</span>",
+        "message_method_link_1": "https://facebook.com",
+        "message_method_text_1": "Message Us",
+        "message_method_link_2": "https://gmail.com",
+        "message_method_text_2": "Contact Us",
+        "contact_content_text": "Geen antwoord gevonden? Wij staan voor je klaar!",
+        "contact_text": "Contact",
+        "contact_link": "shopify://pages/contact-1",
+        "contact_color": "#ffffff",
+        "contact_color_border": "#ff8b21",
+        "contact_color_bg": "#ff8b21",
+        "contact_color_bg_gradient": "",
+        "contact_color_hover": "#ffffff",
+        "contact_color_border_hover": "#ff7800",
+        "contact_color_bg_hover": "#ff7800",
+        "contact_color_bg_gradient_hover": "",
+        "mg_top_desktop": 0,
+        "mg_top_tablet": 0,
+        "mg_top_mobile": 0,
+        "mg_bottom_desktop": 0,
+        "mg_bottom_tablet": 0,
+        "mg_bottom_mobile": 0
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

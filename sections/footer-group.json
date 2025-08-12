@@ -1,0 +1,203 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "footer",
+  "name": "Footer Group",
+  "sections": {
+    "footer-1": {
+      "type": "footer-01",
+      "blocks": {
+        "592a8373-a70d-47d3-a311-321a645e1f14": {
+          "type": "link_list",
+          "settings": {
+            "custom_width": "20",
+            "heading": "Categorieën",
+            "menu": "footer",
+            "mg_bottom": 11
+          }
+        },
+        "a6e74cd6-bd47-4ada-98b5-15e28b94aef6": {
+          "type": "link_list",
+          "settings": {
+            "custom_width": "20",
+            "heading": "Klantenservice",
+            "menu": "main-menu",
+            "mg_bottom": 10
+          }
+        },
+        "2265e00a-3824-4d57-af37-fa00fa88a555": {
+          "type": "link_list",
+          "settings": {
+            "custom_width": "20",
+            "heading": "Over Feestwinkel.nl",
+            "menu": "customer-account-main-menu",
+            "mg_bottom": 10
+          }
+        },
+        "d935a709-71e0-48ff-8d74-5a367ae6d12d": {
+          "type": "newsletter_with_social",
+          "settings": {
+            "custom_width": "40",
+            "show_newsletter": true,
+            "heading": "Abonneer u op onze nieuwsbrief",
+            "subtext": "",
+            "mg_top_des": 25,
+            "mg_bottom_des": 18,
+            "spacing_input": 10,
+            "newsletter_form_width": 420,
+            "input_text": "Abonneer op onze nieuwsbrief",
+            "input_color": "#9c9b9b",
+            "input_color_bg": "#ffffff",
+            "input_color_border": "#d3d3d3",
+            "button_text": "Inschrijven",
+            "button_width": 150,
+            "button_color": "#d30b5a",
+            "button_color_border": "#ffffff",
+            "button_color_bg": "#ffffff",
+            "button_color_bg_gradient": "",
+            "button_color_hover": "#ffffff",
+            "button_color_border_hover": "#000000",
+            "button_color_bg_hover": "#000000",
+            "button_color_bg_gradient_hover": "",
+            "check_text": "",
+            "check_text_color": "#808080",
+            "check_text_fontsize": 14,
+            "check_input_color": "#ffffff",
+            "show_social": true,
+            "swap_social_position": false,
+            "social_heading": "",
+            "enable_bg_social": false,
+            "social_margin_top": 35,
+            "social_icon_width": 12,
+            "social_icon_padding": 12,
+            "social_icon_border_width": 1,
+            "social_icon_margin_right": 15,
+            "social_color": "#d30b5a",
+            "social_border_color": "#ffffff",
+            "social_background_color": "#ffffff",
+            "social_background_color_gradient": "",
+            "social_color_hover": "#282828",
+            "social_border_color_hover": "#ffffff",
+            "social_background_color_hover": "#ffffff",
+            "social_background_color_gradient_hover": "",
+            "social_box_hover_color": "#ffffff",
+            "show_app_store": false,
+            "top_spacing": 16,
+            "app_store_heading": "",
+            "heading_bottom_margin": 20,
+            "app_store_link_1": "",
+            "app_store_link_2": "",
+            "logo_margin_bottom": 28,
+            "content_subtext": "",
+            "phone_icon": "message_icon",
+            "show_phone_icon": true,
+            "phone_text": "<p><a href=\"https://wa.me/0623040567\">0623040567</a></p>",
+            "email_icon": "envelope_icon",
+            "show_email_icon": true,
+            "email_text": "<p><a href=\"mailto:klantenservice@feestwinkel.nl\">klantenservice@feestwinkel.nl</a></p>",
+            "icon_size": 20,
+            "icon_color": "#ffffff",
+            "newsletter_margin_bottom": 20
+          }
+        },
+        "41adb6e5-e71d-422b-a1e1-d2034c83869c": {
+          "type": "footer_bottom",
+          "settings": {
+            "pdtop_footer_bottom": 20,
+            "pdbottom_footer_bottom": 20,
+            "border_top": true,
+            "footer_bottom_color": "#ffffff",
+            "border_top_color": "#d30b5a",
+            "footer_bottom_bg": "#ffffff",
+            "footer_bottom_bg_gradient": "",
+            "show_copyright": true,
+            "show_shop_name": true,
+            "enable_layout_grid": true,
+            "text_fontsize": 11,
+            "copyright_content": "<p>© 2024 <a href=\"https://Feestwinkel.nl \" title=\"https://Feestwinkel.nl \">Feestwinkel.nl </a></p><p>Theme Design by <a href=\"https://trafficexpress.nl/\" target=\"_blank\" title=\"https://trafficexpress.nl/\">Traffic Express</a></p>",
+            "copyright_content_color": "#d30b5a",
+            "shop_name": "",
+            "show_payment": true,
+            "payment_margin_top": 0,
+            "payment_type": "custom",
+            "show_payment_visa": true,
+            "show_payment_master": true,
+            "show_payment_maestro": true,
+            "show_payment_american_express": true,
+            "show_payment_apple_pay": true,
+            "show_payment_bitcoin": false,
+            "show_payment_dankort": false,
+            "show_payment_diners_club": false,
+            "show_payment_discover": false,
+            "show_payment_paypal": true,
+            "show_payment_dogecoin": false,
+            "show_payment_dwolla": false,
+            "show_payment_forbrugsforeningen": false,
+            "show_payment_jcb": false,
+            "show_payment_litecoin": false,
+            "show_payment_afterpay": false,
+            "show_payment_google_pay": false,
+            "show_payment_ideal": true,
+            "show_payment_klarna": true,
+            "show_payment_klarna-pay-later": false,
+            "show_payment_shopify_pay": false,
+            "show_payment_sofort": false
+          }
+        }
+      },
+      "block_order": [
+        "592a8373-a70d-47d3-a311-321a645e1f14",
+        "a6e74cd6-bd47-4ada-98b5-15e28b94aef6",
+        "2265e00a-3824-4d57-af37-fa00fa88a555",
+        "d935a709-71e0-48ff-8d74-5a367ae6d12d",
+        "41adb6e5-e71d-422b-a1e1-d2034c83869c"
+      ],
+      "settings": {
+        "container": "full",
+        "padding_full_width": 60,
+        "type_footer_heading": "font_1",
+        "type_footer_heading_font_size": 15,
+        "type_footer_heading_line_height": 22,
+        "type_footer_heading_font_weight": "600",
+        "type_footer_heading_text_transform": "uppercase",
+        "type_footer_heading_margin_bottom": 12,
+        "type_footer_heading_letter_spacing": ".05em",
+        "type_footer_link": "font_1",
+        "type_footer_link_font_size": 12,
+        "type_footer_link_font_weight": "400",
+        "type_footer_link_text_transform": "capitalize",
+        "type_footer_link_line_height": 28,
+        "type_footer_link_letter_spacing": ".02em",
+        "enable_border_footer_top": false,
+        "border_footer_top_color": "#d30b5a",
+        "pdtop_footer_top": 30,
+        "pdbottom_footer_top": 0,
+        "footer_top_bg": "#d30b5a",
+        "footer_top_bg_gradient": "",
+        "show_footer_top_bg_img": false,
+        "footer_top_bg_position_x": "center",
+        "footer_top_bg_position_y": "center",
+        "footer_top_bg_repeat": "no-repeat",
+        "footer_top_bg_attachment": "fixed",
+        "footer_top_bg_size": "cover",
+        "footer_top_text_align": "left",
+        "footer_top_title_color": "#ffffff",
+        "footer_top_color_link": "#ffffff",
+        "footer_top_color_link_hover": "#ffffff",
+        "show_border_item": false,
+        "space_border_item": 60,
+        "footer_border_item": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "footer-1"
+  ]
+}

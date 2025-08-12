@@ -1,0 +1,542 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "header",
+  "name": "Header Group",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "60fe30b1-fa66-4bd9-9d3f-21fc97aa738c": {
+          "type": "announcement",
+          "settings": {
+            "text": "<p>\n    <svg style=\"margin: 0 10px 0 200px\" xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 576 512\"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d=\"M294.2 277.7c18 5 34.7 13.4 49.5 24.7l161.5-53.8c8.4-2.8 12.9-11.9 10.1-20.2L454.9 47.2c-2.8-8.4-11.9-12.9-20.2-10.1l-61.1 20.4 33.1 99.4L346 177l-33.1-99.4-61.6 20.5c-8.4 2.8-12.9 11.9-10.1 20.2l53 159.4zm281 48.7L565 296c-2.8-8.4-11.9-12.9-20.2-10.1l-213.5 71.2c-17.2-22-43.6-36.4-73.5-37L158.4 21.9C154 8.8 141.8 0 128 0H16C7.2 0 0 7.2 0 16v32c0 8.8 7.2 16 16 16h88.9l92.2 276.7c-26.1 20.4-41.7 53.6-36 90.5 6.1 39.4 37.9 72.3 77.3 79.2 60.2 10.7 112.3-34.8 113.4-92.6l213.3-71.2c8.3-2.8 12.9-11.8 10.1-20.2zM256 464c-26.5 0-48-21.5-48-48s21.5-48 48-48 48 21.5 48 48-21.5 48-48 48z\"></path></svg>\n    <a href=\"#\">\n        <span>Gratis verzending vanaf €39,-</span>\n    </a>\n</p>",
+            "btn_color": "#f84248",
+            "btn_border_color": "#ffffff",
+            "btn_bg_color": "#ffffff",
+            "btn_bg_color_gradient": ""
+          }
+        },
+        "announcement_gmqWkp": {
+          "type": "announcement",
+          "settings": {
+            "text": "<p>\n    <svg style=\"margin: 0 10px 0 200px\" xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 640 512\"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d=\"M624 352h-16V243.9c0-12.7-5.1-24.9-14.1-33.9L494 110.1c-9-9-21.2-14.1-33.9-14.1H416V48c0-26.5-21.5-48-48-48H112C85.5 0 64 21.5 64 48v48H8c-4.4 0-8 3.6-8 8v16c0 4.4 3.6 8 8 8h272c4.4 0 8 3.6 8 8v16c0 4.4-3.6 8-8 8H40c-4.4 0-8 3.6-8 8v16c0 4.4 3.6 8 8 8h208c4.4 0 8 3.6 8 8v16c0 4.4-3.6 8-8 8H8c-4.4 0-8 3.6-8 8v16c0 4.4 3.6 8 8 8h208c4.4 0 8 3.6 8 8v16c0 4.4-3.6 8-8 8H64v128c0 53 43 96 96 96s96-43 96-96h128c0 53 43 96 96 96s96-43 96-96h48c8.8 0 16-7.2 16-16v-32c0-8.8-7.2-16-16-16zM160 464c-26.5 0-48-21.5-48-48s21.5-48 48-48 48 21.5 48 48-21.5 48-48 48zm320 0c-26.5 0-48-21.5-48-48s21.5-48 48-48 48 21.5 48 48-21.5 48-48 48zm80-208H416V144h44.1l99.9 99.9V256z\"></path></svg>\n    <a href=\"#\">\n        <span>Op werkdagen voor 16:00 besteld, binnen 1 á 2 dagen in huis </span>\n    </a>\n</p>",
+            "btn_color": "#f84248",
+            "btn_border_color": "#ffffff",
+            "btn_bg_color": "#ffffff",
+            "btn_bg_color_gradient": ""
+          }
+        },
+        "announcement_3dtpNf": {
+          "type": "announcement",
+          "settings": {
+            "text": "<p>\n    <svg style=\"margin: 0 10px 0 200px\" xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 512 512\"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d=\"M0 168v-16c0-13.3 10.7-24 24-24h360V80c0-21.4 25.9-32 41-17l80 80c9.4 9.4 9.4 24.6 0 33.9l-80 80C410 272 384 261.5 384 240v-48H24c-13.3 0-24-10.7-24-24zm488 152H128v-48c0-21.3-25.9-32.1-41-17l-80 80c-9.4 9.4-9.4 24.6 0 33.9l80 80C102.1 464 128 453.4 128 432v-48h360c13.3 0 24-10.7 24-24v-16c0-13.3-10.7-24-24-24z\"></path></svg>\n    <a href=\"#\">\n        <span>14 Dagen Retourgarantie!</span>\n    </a>\n</p>",
+            "btn_color": "#f84248",
+            "btn_border_color": "#ffffff",
+            "btn_bg_color": "#ffffff",
+            "btn_bg_color_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "60fe30b1-fa66-4bd9-9d3f-21fc97aa738c",
+        "announcement_gmqWkp",
+        "announcement_3dtpNf"
+      ],
+      "settings": {
+        "layout": "scroll",
+        "enable_close": false,
+        "color_text": "#ffffff",
+        "bg_color_text": "#d30b5a",
+        "bg_color_text_gradient": "",
+        "font_size_text": 12,
+        "font_style_text": "normal",
+        "font_weight_text": "400",
+        "arrow_active": false,
+        "content_max_width": 38,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "header_utility_rwPwbf": {
+      "type": "header-utility",
+      "blocks": {
+        "logo_UgpT9P": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/ezgif.com-svg-to-png-converter.png",
+            "logo_width": 300,
+            "logo_text": "",
+            "logo_font_size": 30,
+            "logo_font_weight": "900",
+            "logo_text_transform": "uppercase",
+            "logo_color": "#232323"
+          }
+        },
+        "text_rpYTkk": {
+          "type": "text",
+          "settings": {
+            "customer_service_text": "<ul><li></li></ul>",
+            "text_color": "#2d2d2d"
+          }
+        },
+        "search_iMK8UF": {
+          "type": "search",
+          "settings": {
+            "search_color": "#a5a5a5",
+            "bg_search_color": "#e9e9e9",
+            "search_icon_color": "#000000",
+            "search_border_radius": 5
+          }
+        },
+        "function_group_jRYzQY": {
+          "type": "function_group",
+          "settings": {
+            "show_customer": true,
+            "customer_color": "#d30b5a",
+            "show_wishlist": true,
+            "wishlist_color": "#d30b5a",
+            "show_wishlist_number": true,
+            "wishlist_color_item": "#d30b5a",
+            "wishlist_bg_item": "#ff8b21",
+            "show_cart": true,
+            "cart_color": "#d30b5a",
+            "cart_color_item": "#d30b5a",
+            "cart_bg_item": "#ff8b21",
+            "cart_item_font_size": 12,
+            "show_language_currency": true,
+            "language_currency_color": "#d30b5a"
+          }
+        }
+      },
+      "block_order": [
+        "logo_UgpT9P",
+        "text_rpYTkk",
+        "search_iMK8UF",
+        "function_group_jRYzQY"
+      ],
+      "settings": {
+        "container": "1170",
+        "padding_full_width": 100,
+        "header_bg": "#ffffff",
+        "header_bg_gradient": "",
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "9c03747e-b054-4db8-8194-5a35c71f82ca": {
+      "type": "header-navigation-plain",
+      "blocks": {
+        "sections--14682829619277__9c03747e-b054-4db8-8194-5a35c71f82ca-1680876693acfad79f-1": {
+          "type": "main_menu",
+          "settings": {
+            "menu": "footer",
+            "menu_top_spacing": 11,
+            "menu_bottom_spacing": 12,
+            "grid_gap_menu_item": 20,
+            "alignment": "center",
+            "bg_mega_menu": "#ffffff",
+            "bg_mega_menu_gradient": "",
+            "lv_1_color": "#ffffff",
+            "lv_1_color_hover": "#ff9900",
+            "lv_2_color": "#232323",
+            "lv_2_color_hover": "#232323",
+            "lv_3_color": "#3c3c3c",
+            "lv_3_color_hover": "#3c3c3c",
+            "sale_item_1": "",
+            "sale_item_2": "",
+            "sale_item_3": "",
+            "sale_item_color": "#e95144",
+            "label_position": "none",
+            "show_label_blink": true,
+            "new_label_1": "",
+            "new_label_2": "Wishlist",
+            "new_label_3": "Home 21 - Yoga, Home 22 - Eyes Wears, Home 23 - Plant+ Garden, Home 24 - Bicycle, Mobile Sticky Toolbar, Home 25 - Swimwear 2, Sticky Promotion, Marquee Function, Home 26 - Bagratica, Section Groups, Home 27 - Men Fashion 02, Scroll Section",
+            "new_label_color": "#ffffff",
+            "new_label_bg": "#06bfe2",
+            "new_label_bg_gradient": "",
+            "sale_label_1": "30% Off",
+            "sale_label_2": "",
+            "sale_label_3": "",
+            "sale_label_color": "#ffffff",
+            "sale_label_bg": "#ff1a00",
+            "sale_label_bg_gradient": "",
+            "hot_label_1": "",
+            "hot_label_2": "RTL Layout, Store Locator",
+            "hot_label_3": "Bundle - Upsell, Variant Image Grouped, Home 02 - Trendy Style, Home 04 - High Fashion, Home 06 - SuperMarket, Home 15 - Automotive 2, Home 09 - Pet Supplies, Different Mobile Menu, Custom Options, Variant Metafield, Notify Me (Out Of Stock), Color Comparison, Product Combo",
+            "hot_label_color": "#ffffff",
+            "hot_label_bg": "#ffbb49",
+            "hot_label_bg_gradient": ""
+          }
+        },
+        "sections--14682829619277__9c03747e-b054-4db8-8194-5a35c71f82ca-1680876693acfad79f-2": {
+          "type": "header_icons",
+          "settings": {
+            "show_language_currency": false,
+            "show_search": false,
+            "show_customer": false,
+            "show_wishlist": false,
+            "show_wishlist_number": false,
+            "show_cart": false,
+            "text_font_size": 12,
+            "show_language_currency_sticky": false,
+            "show_search_sticky": false,
+            "show_customer_sticky": false,
+            "show_wishlist_sticky": false,
+            "show_cart_sticky": true,
+            "cart_icon": "2",
+            "header_icons_color": "#232323",
+            "header_icons_color_hover": "#ffffff",
+            "header_icons_border_color": "rgba(0,0,0,0)",
+            "header_icons_border_sticky_color": "rgba(0,0,0,0)",
+            "cart_count_bubble_color": "#ffffff",
+            "cart_count_bubble_bg": "#ff8b21",
+            "cart_count_bubble_bg_gradient": "",
+            "wishlist_color_item": "#ffffff",
+            "wishlist_bg_item": "#232323"
+          }
+        },
+        "4d022900-5ec2-41b0-89c1-edea75a13c28": {
+          "type": "megamenu_style_3",
+          "settings": {
+            "layout_block": "custom_width",
+            "header_custom_width_size": 1200,
+            "mega_tyle": "style1",
+            "item": "verjaardag",
+            "column": 3,
+            "show_banner_1": false,
+            "banner_url_1": "shopify://collections/traktaties",
+            "show_banner_2": false,
+            "banner_url_2": "shopify://collections/verpakkingen",
+            "show_banner_3": false,
+            "banner_url_3": "shopify://collections/traktaties-op-leeftijd",
+            "show_banner_4": false,
+            "banner_url_4": "",
+            "show_banner_5": false,
+            "banner_url_5": ""
+          }
+        },
+        "megamenu_style_3_mcqdiT": {
+          "type": "megamenu_style_3",
+          "settings": {
+            "layout_block": "custom_width",
+            "header_custom_width_size": 1200,
+            "mega_tyle": "style1",
+            "item": "ballonnen",
+            "column": 3,
+            "show_banner_1": false,
+            "banner_url_1": "",
+            "show_banner_2": false,
+            "banner_url_2": "",
+            "show_banner_3": false,
+            "banner_url_3": "",
+            "show_banner_4": false,
+            "banner_url_4": "",
+            "show_banner_5": false,
+            "banner_url_5": ""
+          }
+        },
+        "megamenu_style_3_pR686F": {
+          "type": "megamenu_style_3",
+          "settings": {
+            "layout_block": "custom_width",
+            "header_custom_width_size": 1200,
+            "mega_tyle": "style1",
+            "item": "versiering",
+            "column": 3,
+            "show_banner_1": false,
+            "banner_url_1": "",
+            "show_banner_2": false,
+            "banner_url_2": "",
+            "show_banner_3": false,
+            "banner_url_3": "",
+            "show_banner_4": false,
+            "banner_url_4": "",
+            "show_banner_5": false,
+            "banner_url_5": ""
+          }
+        },
+        "megamenu_style_3_YVAB8x": {
+          "type": "megamenu_style_3",
+          "settings": {
+            "layout_block": "custom_width",
+            "header_custom_width_size": 1200,
+            "mega_tyle": "style1",
+            "item": "thema",
+            "column": 3,
+            "show_banner_1": false,
+            "banner_url_1": "",
+            "show_banner_2": false,
+            "banner_url_2": "",
+            "show_banner_3": false,
+            "banner_url_3": "",
+            "show_banner_4": false,
+            "banner_url_4": "",
+            "show_banner_5": false,
+            "banner_url_5": ""
+          }
+        },
+        "megamenu_style_3_qFEwpf": {
+          "type": "megamenu_style_3",
+          "settings": {
+            "layout_block": "custom_width",
+            "header_custom_width_size": 1200,
+            "mega_tyle": "style1",
+            "item": "speciale momenten",
+            "column": 3,
+            "show_banner_1": false,
+            "banner_url_1": "",
+            "show_banner_2": false,
+            "banner_url_2": "",
+            "show_banner_3": false,
+            "banner_url_3": "",
+            "show_banner_4": false,
+            "banner_url_4": "",
+            "show_banner_5": false,
+            "banner_url_5": ""
+          }
+        },
+        "megamenu_style_3_B9zNnE": {
+          "type": "megamenu_style_3",
+          "settings": {
+            "layout_block": "custom_width",
+            "header_custom_width_size": 1200,
+            "mega_tyle": "style1",
+            "item": "feestdagen",
+            "column": 3,
+            "show_banner_1": false,
+            "banner_url_1": "",
+            "show_banner_2": false,
+            "banner_url_2": "",
+            "show_banner_3": false,
+            "banner_url_3": "",
+            "show_banner_4": false,
+            "banner_url_4": "",
+            "show_banner_5": false,
+            "banner_url_5": ""
+          }
+        },
+        "megamenu_style_3_MqyVtw": {
+          "type": "megamenu_style_3",
+          "settings": {
+            "layout_block": "custom_width",
+            "header_custom_width_size": 1200,
+            "mega_tyle": "style1",
+            "item": "accessoires",
+            "column": 3,
+            "show_banner_1": false,
+            "banner_url_1": "",
+            "show_banner_2": false,
+            "banner_url_2": "",
+            "show_banner_3": false,
+            "banner_url_3": "",
+            "show_banner_4": false,
+            "banner_url_4": "",
+            "show_banner_5": false,
+            "banner_url_5": ""
+          }
+        },
+        "megamenu_style_3_GwCQML": {
+          "type": "megamenu_style_3",
+          "settings": {
+            "layout_block": "custom_width",
+            "header_custom_width_size": 1200,
+            "mega_tyle": "style1",
+            "item": "kostuums",
+            "column": 3,
+            "show_banner_1": false,
+            "banner_url_1": "",
+            "show_banner_2": false,
+            "banner_url_2": "",
+            "show_banner_3": false,
+            "banner_url_3": "",
+            "show_banner_4": false,
+            "banner_url_4": "",
+            "show_banner_5": false,
+            "banner_url_5": ""
+          }
+        },
+        "megamenu_style_3_eAFMPG": {
+          "type": "megamenu_style_3",
+          "settings": {
+            "layout_block": "custom_width",
+            "header_custom_width_size": 1200,
+            "mega_tyle": "style1",
+            "item": "koopjeshoek",
+            "column": 3,
+            "show_banner_1": false,
+            "banner_url_1": "",
+            "show_banner_2": false,
+            "banner_url_2": "",
+            "show_banner_3": false,
+            "banner_url_3": "",
+            "show_banner_4": false,
+            "banner_url_4": "",
+            "show_banner_5": false,
+            "banner_url_5": ""
+          }
+        },
+        "megamenu_style_3_kKwwnn": {
+          "type": "megamenu_style_3",
+          "settings": {
+            "layout_block": "custom_width",
+            "header_custom_width_size": 1200,
+            "mega_tyle": "style1",
+            "item": "toppers 2025",
+            "column": 3,
+            "show_banner_1": false,
+            "banner_url_1": "",
+            "show_banner_2": false,
+            "banner_url_2": "",
+            "show_banner_3": false,
+            "banner_url_3": "",
+            "show_banner_4": false,
+            "banner_url_4": "",
+            "show_banner_5": false,
+            "banner_url_5": ""
+          }
+        }
+      },
+      "block_order": [
+        "sections--14682829619277__9c03747e-b054-4db8-8194-5a35c71f82ca-1680876693acfad79f-1",
+        "sections--14682829619277__9c03747e-b054-4db8-8194-5a35c71f82ca-1680876693acfad79f-2",
+        "4d022900-5ec2-41b0-89c1-edea75a13c28",
+        "megamenu_style_3_mcqdiT",
+        "megamenu_style_3_pR686F",
+        "megamenu_style_3_YVAB8x",
+        "megamenu_style_3_qFEwpf",
+        "megamenu_style_3_B9zNnE",
+        "megamenu_style_3_MqyVtw",
+        "megamenu_style_3_GwCQML",
+        "megamenu_style_3_eAFMPG",
+        "megamenu_style_3_kKwwnn"
+      ],
+      "settings": {
+        "container": "full",
+        "padding_full_width": 0,
+        "header_navigation_bg": "#d30b5a",
+        "header_navigation_bg_gradient": "",
+        "sticky_header_type": "on_scroll",
+        "sticky_header_width": "full",
+        "enable_transparent": false,
+        "transparent_color": "#ffffff",
+        "transparent_color_hover": "#ffffff",
+        "border_color": "rgba(0,0,0,0)"
+      }
+    },
+    "header-mobile": {
+      "type": "header-mobile",
+      "blocks": {
+        "7de2266e-0cd4-4fda-9f09-06f75a17f944": {
+          "type": "menu",
+          "settings": {
+            "color": "#d30b51",
+            "menu_tab_bg": "#000000"
+          }
+        },
+        "550fbd21-75fb-4051-9dee-77d91b5239f0": {
+          "type": "logo",
+          "settings": {
+            "logo_mobile": "shopify://shop_images/ezgif.com-svg-to-png-converter.png",
+            "logo_width_mobile": 150,
+            "logo_text": "",
+            "logo_font_size": 20,
+            "logo_font_weight": "900",
+            "logo_text_transform": "uppercase",
+            "logo_color": "#232323",
+            "alignment": "center"
+          }
+        },
+        "163e2cb5-14f2-4af6-9ac3-77193c082f53": {
+          "type": "search",
+          "settings": {
+            "icon": "1",
+            "popup_action": false,
+            "color": "#d30b5a"
+          }
+        },
+        "633f9dae-3f65-4bda-9ca8-9d3e231aaf9d": {
+          "type": "cart",
+          "settings": {
+            "icon": "3",
+            "show_cart_count_bubble": true,
+            "color": "#d30b51",
+            "color_bubble": "#ffffff",
+            "bg_bubble": "#d30b51"
+          }
+        }
+      },
+      "block_order": [
+        "7de2266e-0cd4-4fda-9f09-06f75a17f944",
+        "550fbd21-75fb-4051-9dee-77d91b5239f0",
+        "163e2cb5-14f2-4af6-9ac3-77193c082f53",
+        "633f9dae-3f65-4bda-9ca8-9d3e231aaf9d"
+      ],
+      "settings": {
+        "background": "#ffffff",
+        "gradient": "",
+        "sticky_header_type": "on_scroll",
+        "enable_transparent": false,
+        "transparent_color": "#ffffff",
+        "transparent_border_color": "rgba(0,0,0,0)",
+        "padding_top": 5,
+        "padding_bottom": 5
+      }
+    },
+    "rich_text_FRkWtm": {
+      "type": "rich-text",
+      "blocks": {
+        "text_V8krzz": {
+          "type": "text",
+          "settings": {
+            "text": "<u>Vandaag vóór 16:00 besteld is binnen 1 á 2 werkdagen in huis. Ook zaterdag levering (m.u.v. Feestdagen) zakelijke korting tot 35%</u>",
+            "text_size": 12,
+            "text_size_mb": 12,
+            "text_font_weight": "400",
+            "text_line_height": 1,
+            "margin_top_text": 20,
+            "text_color": "#000000",
+            "text_width": "1200px"
+          }
+        }
+      },
+      "block_order": [
+        "text_V8krzz"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "container": "container",
+        "padding_full_width": 100,
+        "enable_border_top": true,
+        "enable_border_bottom": true,
+        "color_border_bottom": "#e8e8e8",
+        "enable_minus_mg_top": false,
+        "minus_spacing_top": -100,
+        "rich_text_bg": "#ffffff",
+        "rich_text_bg_gradient": "",
+        "enable_column": false,
+        "content_align": "left",
+        "mg_top_desktop": 0,
+        "mg_top_tablet": 0,
+        "mg_top_mobile": 0,
+        "mg_bottom_desktop": 20,
+        "mg_bottom_tablet": 20,
+        "mg_bottom_mobile": 0
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header_utility_rwPwbf",
+    "9c03747e-b054-4db8-8194-5a35c71f82ca",
+    "header-mobile",
+    "rich_text_FRkWtm"
+  ]
+}

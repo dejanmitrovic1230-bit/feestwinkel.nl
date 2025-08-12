@@ -1,0 +1,81 @@
+.section-header-navigation .menu-dropdown__column[data-masonry] .site-nav-list {
+  width: 100%;
+}
+
+@media (max-width: 551px) {
+  .search-modal__form .search__input {
+    font-size: 16px;
+  }
+}
+.productView-dlvr__remaining {
+  display: none !important;
+}
+@media (max-width: 1024px) {
+  .halo-sidebar_menu .site-nav-list .image img,
+  .halo-sidebar_menu .site-nav-list .image .data-lazy-loading {
+    display: none !important;
+  }
+  .halo-sidebar_menu .site-nav-list .image {
+    padding-top: 0px !important;
+  }
+  .product-card-layout-07 .card-product .card-action .button.button-ATC,
+  .product-card-layout-07
+    .card-product
+    .card-action
+    .button.product-form__submit {
+    display: block !important;
+    text-align: center !important;
+    position: relative !important;
+    width: 31px !important;
+    height: 31px !important;
+    padding: 4px 4px !important;
+    line-height: 1 !important;
+    border-radius: 50% !important;
+    font-size: 0 !important;
+    letter-spacing: 0 !important;
+    cursor: pointer !important;
+    min-width: auto !important;
+    border-color: transparent !important;
+    margin-right: 5px !important;
+    margin-bottom: 20px m;
+  }
+  .product-card-layout-07 .product-item .card-product__group {
+  }
+  .product-card-layout-07 .card-product .card-action .button.button-ATC,
+  .product-card-layout-07
+    .card-product
+    .card-action
+    .button.product-form__submit
+    svg {
+    width: 19px !important;
+    height: 19px !important;
+    margin: unset !important;
+  }
+}
+.custom-sidebar {
+  display: flex;
+  gap: 20px;
+}
+.custom-sidebar .page-sidebar {
+  min-width: 200px;
+}
+.custom-sidebar .sidebarBlock-heading {
+  font-family: var(--sidebar-heading-font);
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.card__content .card_information {
+  padding-bottom: 10px;
+}
+@media (max-width: 551px) {
+  .collections-list
+    .collection-list-slider.style_2
+    .collection-list
+    .collection-list__item {
+    width: 50% !important;
+  }
+}
+.halo-sidebar_menu .site-nav-mobile .icon-dropdown {
+  pointer-events: auto !important;
+}
