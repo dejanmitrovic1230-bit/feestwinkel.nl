@@ -4447,6 +4447,7 @@
     },
     "main-header-collection": {
       "name": "Collection header",
+      "name_bottom": "Collection bottom",
       "blocks": {
         "image": {
           "name": "Collection image",
