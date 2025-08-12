@@ -327,15 +327,42 @@
     .scrolled-past-header .label-main-menu .label {
         display: none;
     }
+    .header__inline-menu .menu-lv-1:hover .menu-lv-1__action > .text{
+        font-weight: 700;
+    }
+    .header__inline-menu .menu-lv-1:not(:hover) .menu-lv-1__action > .text:before {
+        content: "";
+        position: absolute;
+        top: -8px;
+        left: -14px;
+        background: white;
+        width: 0;
+        height: calc(100% + 16px);
+        z-index: -1;
+        border-radius: 20px;
+        transition: transform var(--duration-default) ease-out;
+    }
+
     .header__inline-menu .menu-lv-1:hover .menu-lv-1__action > .text:before {
         content: "";
         position: absolute;
-        left: 0;
+        /* left: 0;
         top: 100%;
         background: transparent;
         width: 100%;
         height: 25px;
-        z-index: 1;
+        z-index: 1; */
+        width: calc(100% + 28px);
+        content: "";
+        position: absolute;
+        top: -8px;
+        left: -14px;
+        background: white;
+        width: calc(100% + 28px);
+        height: calc(100% + 16px);
+        z-index: -1;
+        border-radius: 20px;
+        transition: transform var(--duration-default) ease-out;
     }
 
     .main-menu--wrapper .list-menu--inline {
@@ -362,7 +389,7 @@
         color: var(--lv_1_color);
     }
     .menu-lv-1:not(.menu-sale):hover .menu-lv-1__action{
-        color: var(--lv_1_color_hover);
+        color: var(--header_navigation_bg);
         z-index: 2
     }
     .menu--mobile-lv-1__action > .icon{
@@ -394,7 +421,8 @@
     }
     .menu-lv-1:not(.menu-sale) > .link-effect > .text:after,
     .menu-lv-1:not(.menu-sale):hover > .link-effect > .text:after{
-        background: var(--lv_1_color_hover);
+        background: transparent;
+        /* background: var(--lv_1_color_hover); */
     }
     .no-megamenu .menu-lv-2:hover .menu-lv-2__action > .text:after,
     .no-megamenu .menu-lv-2 .menu-lv-2__action > .text:after {
