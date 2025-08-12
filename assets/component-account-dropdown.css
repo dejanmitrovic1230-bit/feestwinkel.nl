@@ -1,0 +1,164 @@
+/* Account Dropdown Styles */
+
+.account-dropdown-wrapper {
+    position: relative;
+    display: inline-block;
+}
+
+.account-dropdown-toggle {
+    background: none;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    padding: 0;
+    transition: all 0.3s ease;
+}
+
+.dropdown-account {
+    position: absolute;
+    top: 100%;
+    right: 0;
+    background: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(-10px);
+    transition: all 0.3s ease;
+    z-index: 1000;
+    min-width: 200px;
+    margin-top: 10px;
+}
+
+.account-dropdown-wrapper:hover .dropdown-account {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+}
+
+.account-menu {
+    list-style: none;
+    margin: 0;
+    padding: 8px 0;
+}
+
+.account-menu li {
+    margin: 0;
+    padding: 0;
+}
+
+.account-menu-link {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 5px;
+    padding: 12px 20px;
+    color: #333333;
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 1.4;
+    transition: all 0.2s ease;
+    border-bottom: 1px solid #f5f5f5;
+}
+
+.account-menu li:last-child .account-menu-link {
+    border-bottom: none;
+}
+
+.account-menu-link:hover {
+    background-color: #f8f8f8;
+    color: #d30b5a;
+    padding-left: 24px;
+    font-weight: 500;
+}
+
+/* Arrow for dropdown */
+.dropdown-account::before {
+    content: '';
+    position: absolute;
+    top: -8px;
+    right: 20px;
+    width: 0;
+    height: 0;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-bottom: 8px solid #ffffff;
+    z-index: 1001;
+}
+
+.dropdown-account::after {
+    content: '';
+    position: absolute;
+    top: -9px;
+    right: 20px;
+    width: 0;
+    height: 0;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-bottom: 8px solid #e0e0e0;
+    z-index: 1000;
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+    .dropdown-account {
+        right: -10px;
+        min-width: 180px;
+    }
+    
+    .dropdown-account::before,
+    .dropdown-account::after {
+        right: 25px;
+    }
+}
+
+/* RTL Support */
+.layout_rtl .dropdown-account {
+    right: auto;
+    left: 0;
+}
+
+.layout_rtl .dropdown-account::before,
+.layout_rtl .dropdown-account::after {
+    right: auto;
+    left: 20px;
+}
+
+/* Hover effect for account icon */
+.account-dropdown-wrapper:hover .account-dropdown-toggle .icon {
+    fill: var(--header_icons_color_hover);
+    stroke: var(--header_icons_color_hover);
+}
+
+/* Custom styling to match your theme colors */
+.account-dropdown-wrapper:hover .account-dropdown-toggle {
+    color: var(--header_icons_color_hover);
+}
+
+.account-menu li svg.icon-caret path{
+    stroke-width: 3;
+    stroke: #d30b5a;
+}
+
+.header__icons .account-name{
+    margin: 0 !important;
+    font-size: 14px !important;
+    margin-left: 5px !important;
+    font-weight: 600 !important;
+    color: var(--wishlist-color) !important;
+    text-transform: lowercase !important;
+}
+
+.shopping-cart-wrapper{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.custom-header__group{
+    display: flex;
+    align-items: end;
+    gap: 5px;
+}
