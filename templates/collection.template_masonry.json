@@ -312,6 +312,14 @@
     "collection_list_6EChp9": {
       "type": "collection-list",
       "blocks": {
+        "category_mkpY4f": {
+          "type": "category",
+          "settings": {
+            "heading": "Categories",
+            "type": "3_level",
+            "link_list": "menu-copy"
+          }
+        },
         "featured_collection_Bw3Bke": {
           "type": "featured_collection",
           "settings": {
@@ -323,6 +331,7 @@
         }
       },
       "block_order": [
+        "category_mkpY4f",
         "featured_collection_Bw3Bke"
       ],
       "settings": {

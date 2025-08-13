@@ -111,7 +111,7 @@
             "cart_color_item": "#d30b5a",
             "cart_bg_item": "#ff8b21",
             "cart_item_font_size": 12,
-            "show_language_currency": true,
+            "show_language_currency": false,
             "language_currency_color": "#d30b5a"
           }
         }
